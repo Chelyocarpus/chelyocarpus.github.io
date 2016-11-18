@@ -84,7 +84,7 @@
 
 	body {
 		height: 100%;
-		background-color: #ffffff;
+		background-color: rgba(0, 0, 0, 0.5);
 		background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(0, 0, 0, 0.5) 5%, rgba(0, 0, 0, 0.35)), url("../../images/netto.jpg");
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(0, 0, 0, 0.5) 5%, rgba(0, 0, 0, 0.35)), url("../../images/netto.jpg");
 		background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(0, 0, 0, 0.5) 5%, rgba(0, 0, 0, 0.35)), url("../../images/netto.jpg");
@@ -126,7 +126,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #414f57;
+		color: #c8cccf;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -173,7 +173,7 @@
 		}
 
 	strong, b {
-		color: #313f47;
+		color: #c8cccf;
 	}
 
 	em, i {
@@ -185,7 +185,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #313f47;
+		color: #c8cccf;
 		line-height: 1.5;
 		margin: 0 0 0.75em 0;
 	}
@@ -262,7 +262,7 @@
 			}
 
 	label {
-		color: #313f47;
+		color: #c8cccf;
 		display: block;
 		font-size: 0.9em;
 		margin: 0 0 0.75em 0;
