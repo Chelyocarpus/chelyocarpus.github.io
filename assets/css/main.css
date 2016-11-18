@@ -126,7 +126,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.75);
+		color: rgba(255, 255, 255, 1);
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
@@ -705,7 +705,7 @@
 		max-width: 100%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
-		background: rgba(0,0,0, 0.5);
+		background: rgba(0,0,0, 0.6);
 		border-radius: 4px;
 		cursor: default;
 		opacity: 0.95;
