@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);*/
 	/* Set your background with this */
 
-		background: linear-gradient(60deg, rgba(0, 0, 0, 0.5) 5%, rgba(0, 0, 0, 0.5)), url("images/netto.jpg") bottom left;
+		background: linear-gradient(60deg, rgba(0, 0, 0, 0.6) 5%, rgba(0, 0, 0, 0.6)), url("images/netto.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -265,7 +265,7 @@
 	}
 
 /* Overlay */
-
+/*
 	@-moz-keyframes overlay {
 		0% {
 			opacity: 0;
@@ -322,7 +322,7 @@
 		position: fixed;
 		top: 0;
 		width: 100%;
-	}
+	}*/
 
 /* Main */
 
