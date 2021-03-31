@@ -20,7 +20,7 @@
 
 main {
 	background-attachment: scroll;
-	background-image: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.4)), url('../assets/images/bg.jpg');
+	background-image: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.4)), url('../../assets/images/bg.jpg');
 	background-position: 0% 0%, center;
 	background-repeat: repeat, no-repeat;
 	background-size: auto, cover;
